@@ -1,0 +1,1 @@
+hi this file is created to test the git merge and conflict scenarios.
